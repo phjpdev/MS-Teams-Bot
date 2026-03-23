@@ -1,0 +1,11 @@
+{
+  "id": "2026-02-10T05-43-54-411Z",
+  "ts": "2026-02-10T05:43:54.411Z",
+  "type": "bot_reply",
+  "conversationId": "1846a22a-e23e-4ef8-a6d4-fb8d00d186a2",
+  "from": {
+    "name": "Bot"
+  },
+  "text": "I’m the AI Project Manager in this Teams chat. I’ll help run the PoC project conversation by:\n- collecting standup updates in a consistent format,\n- calling out unclear items and asking for specifics,\n- tracking owners/deliverables/dates,\n- identifying blockers and what decision/access is needed,\n- closing with clear next actions and owners.\n\nPlease share your standup update using this format:\n- Yesterday:\n- Today:\n- Blockers:\n\nNext actions\n- …\nOwner: You",
+  "model": "gpt-5.2"
+}

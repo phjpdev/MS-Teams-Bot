@@ -1,0 +1,11 @@
+{
+  "id": "2026-02-10T05-44-57-553Z",
+  "ts": "2026-02-10T05:44:57.553Z",
+  "type": "bot_reply",
+  "conversationId": "1846a22a-e23e-4ef8-a6d4-fb8d00d186a2",
+  "from": {
+    "name": "Bot"
+  },
+  "text": "You committed to deliver an **API spec** by **tomorrow at 3:00 PM**.\n\nTo make that commitment actionable (and something we can track), I still need you to confirm:\n- **Owner:** you (Alex) — confirm\n- **Deliverable details:** which endpoints/scope are included, and **where** you’ll post it (repo doc link / Confluence / Teams file)\n- **Date/time:** “tomorrow 3:00 PM” — confirm **time zone**\n\nAlso, please restate your standup using the required format:\n\n- Yesterday:\n- Today:\n- Blockers:\n\nNext actions:\n- Confirm owner + deliverable scope/location + time zone for the API spec commitment  \nOwner: Alex",
+  "model": "gpt-5.2"
+}

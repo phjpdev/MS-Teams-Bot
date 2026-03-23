@@ -1,0 +1,11 @@
+{
+  "id": "2026-02-10T05-44-19-438Z",
+  "ts": "2026-02-10T05:44:19.438Z",
+  "type": "bot_reply",
+  "conversationId": "1846a22a-e23e-4ef8-a6d4-fb8d00d186a2",
+  "from": {
+    "name": "Bot"
+  },
+  "text": "Please restate your update in the required standup format:\n\n- Yesterday:\n- Today:\n- Blockers:\n\nAlso confirm the commitment with specifics:\n- Owner (you): ?\n- Deliverable: API spec (which scope/endpoints? where will it be posted?)\n- Date/time: tomorrow 3:00 PM (which time zone?)\n\nNext actions:\n- Repost your status using the format above, including time zone and where the API spec will be shared  \nOwner: You",
+  "model": "gpt-5.2"
+}

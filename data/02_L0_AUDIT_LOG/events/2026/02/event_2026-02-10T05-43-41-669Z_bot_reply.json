@@ -1,0 +1,11 @@
+{
+  "id": "2026-02-10T05-43-41-669Z",
+  "ts": "2026-02-10T05:43:41.669Z",
+  "type": "bot_reply",
+  "conversationId": "1846a22a-e23e-4ef8-a6d4-fb8d00d186a2",
+  "from": {
+    "name": "Bot"
+  },
+  "text": "Hi — please share your standup update using this format:\n\n- Yesterday:\n- Today:\n- Blockers:\n\nNext actions:\n- Send your status in the format above  \nOwner: You",
+  "model": "gpt-5.2"
+}

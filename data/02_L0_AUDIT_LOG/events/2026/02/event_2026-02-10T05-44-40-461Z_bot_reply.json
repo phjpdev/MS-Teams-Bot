@@ -1,0 +1,11 @@
+{
+  "id": "2026-02-10T05-44-40-461Z",
+  "ts": "2026-02-10T05:44:40.461Z",
+  "type": "bot_reply",
+  "conversationId": "1846a22a-e23e-4ef8-a6d4-fb8d00d186a2",
+  "from": {
+    "name": "Bot"
+  },
+  "text": "Please post your standup in the required format first:\n\n- Yesterday:\n- Today:\n- Blockers:\n\nAlso, “completed frontend” is too vague. Clarify:\n1) What exactly is done (screens/components, routes, error states)?\n2) Where is it (repo/branch/PR link)?\n3) What’s still missing (tests, accessibility, responsive, analytics, config)?\n4) What’s the acceptance criteria for “frontend done” in this PoC?\n\nOnce you answer, I’ll direct you. In the meantime, the most useful next step is usually:\n\n- Create/submit a PR with the frontend changes + short demo notes (how to run, key flows).\n- Align with the API spec: list required endpoints/payloads + mock data needs.\n- Define integration plan: who provides backend/API, and by when, for end-to-end testing.\n\nNext actions:\n- Repost your status using the format above and include repo/PR link and what “frontend completed” covers  \nOwner: You",
+  "model": "gpt-5.2"
+}

@@ -1,0 +1,6 @@
+{
+  "members": [
+    { "name": "You", "role": "Developer", "responsibilities": ["Implement PoC", "Demo"] },
+    { "name": "Client", "role": "Sponsor", "responsibilities": ["Review demo", "Approve Phase 1"] }
+  ]
+}

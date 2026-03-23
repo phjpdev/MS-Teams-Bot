@@ -1,0 +1,6 @@
+{
+  "projectName": "AI Project Manager PoC",
+  "phase": "Phase 1",
+  "currentFocus": "Bot + L0 read/write + governance/state aware responses",
+  "risks": ["No client tenant access in Phase 1"]
+}
