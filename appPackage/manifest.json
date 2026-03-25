@@ -2,7 +2,7 @@
     "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.24/MicrosoftTeams.schema.json",
     "manifestVersion": "1.24",
     "version": "1.0.0",
-    "id": "${{TEAMS_APP_ID}}",
+    "id": "c5ede896-3d85-434c-8d3b-e567abf14dae",
     "developer": {
         "name": "My App, Inc.",
         "websiteUrl": "https://www.example.com",
@@ -14,8 +14,8 @@
         "outline": "outline.png"
     },
     "name": {
-        "short": "Enter${{APP_NAME_SUFFIX}}",
-        "full": "full name for Enter"
+        "short": "TM-PM-01",
+        "full": "TM-PM-01 AI Project Manager"
     },
     "description": {
         "short": "short description for Enter",
@@ -24,7 +24,7 @@
     "accentColor": "#FFFFFF",
     "bots": [
         {
-            "botId": "${{BOT_ID}}",
+            "botId": "c5ede896-3d85-434c-8d3b-e567abf14dae",
             "scopes": [
                 "personal",
                 "team",
